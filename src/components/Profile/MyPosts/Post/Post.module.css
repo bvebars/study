@@ -1,0 +1,10 @@
+
+.item {
+color: red;
+}
+
+.item img {
+    padding: 10px;
+    width: 50px;
+    border-radius: 49%;
+}
